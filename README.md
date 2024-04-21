@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishal Shah</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Bengaluru, India</h3>
+<h3 align="center">A passionate Software Engineer from Bengaluru, India</h3>
 
-- 🔭 I’m currently working on **Correlation Analysis of different Asset classes**
+- 🔭 I’m currently working as a Software Engineer at Amex
+- 🌱 I’m currently learning **Generative AI**
 
-- 🌱 I’m currently learning **Deep Learning, Interactive Data Visualization**
-
-- 🤝 I’m looking for **Machine Learning jobs**
+- 🤝 I’m looking for **Software Development projects**
 
 - 📫 How to reach me **shahvishal910@gmail.com**
 
